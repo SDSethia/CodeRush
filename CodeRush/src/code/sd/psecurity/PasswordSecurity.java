@@ -4,6 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 
+ * @author Snehadeep Sethia
+ * 
+ */
 public class PasswordSecurity {
 
 	public static void main(final String[] args) throws NumberFormatException,
