@@ -1,4 +1,4 @@
-package code.sd.udsequence;
+package sd.codedash2012;
 
 import java.io.BufferedReader;
 import java.io.IOException;
