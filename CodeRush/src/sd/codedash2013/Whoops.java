@@ -7,6 +7,11 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
+/**
+ * 
+ * @author Snehadeep Sethia
+ * 
+ */
 public class Whoops {
 
 	private static boolean whoops = false;
