@@ -25,7 +25,6 @@ public class LookAndSay {
 			}
 
 			for (int i = 0; (i < round) && (round > 0); i++) {
-				final int head = 0;
 				int curr = 0;
 				int counter = 1;
 				StringBuilder str = new StringBuilder();
@@ -40,7 +39,7 @@ public class LookAndSay {
 					counter = 1;
 				}
 				arr = str.toString().toCharArray();
-
+				System.out.println(i + " " + str); //$NON-NLS-1$
 			}
 			if (round > 0) {
 				list.add(new String(arr));
