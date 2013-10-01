@@ -5,6 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author Snehadeep Sethia
+ * 
+ */
 public class LookAndSay {
 
 	public static void main(final String[] args) throws IOException {
